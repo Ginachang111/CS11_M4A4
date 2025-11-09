@@ -1,1 +1,6 @@
-
+print("Hello, World!")
+name = input("what's your name?")
+print("Lisa is cool! My name is Gina!")
+How_are_you = input("How are you doing Lisa?")
+print("That's good, I am doing well too.")
+Goodbye = input("Well it was nice meeting you, Lisa!")
